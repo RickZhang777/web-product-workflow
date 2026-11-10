@@ -1,5 +1,7 @@
 # 岗位与交接
 
+[English](en/roles.md) · **简体中文**
+
 <a id="roles"></a>
 ## 六岗导航
 

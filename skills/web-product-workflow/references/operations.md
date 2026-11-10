@@ -1,5 +1,7 @@
 # 经营与数据
 
+[English](en/operations.md) · **简体中文**
+
 <a id="benchmarks"></a>
 ## 竞品证据
 
